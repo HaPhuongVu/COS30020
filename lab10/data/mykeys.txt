@@ -1,0 +1,4 @@
+feenix-mariadb.swin.edu.au
+s104177306
+121204
+s104177306_db
