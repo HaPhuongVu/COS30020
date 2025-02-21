@@ -14,10 +14,10 @@ $pwdPattern = "/^[a-zA-Z0-9]+$/";
 //function to connect to db
 function getDBConnection()
 {
-    $host = "feenix-mariadb.swin.edu.au";
-    $user = "s104177306";
-    $password = "121204";
-    $db = "s104177306_db";
+    $host = "";
+    $user = "";
+    $password = "";
+    $db = "";
 
     $conn = mysqli_connect($host, $user, $password, $db);
     if ($conn->connect_error) {
